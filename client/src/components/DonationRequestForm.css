@@ -1,0 +1,43 @@
+.donation-request-form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .donation-request-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .donation-request-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .donation-request-form .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .donation-request-form .form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .donation-request-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .donation-request-form button:hover {
+    background-color: #218838;
+  }
+  

@@ -1,0 +1,63 @@
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-brand svg {
+    margin-right: 10px;
+  }
+  
+  .nav-link {
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+  }
+  
+  .nav-link p {
+    margin: 0;
+  }
+  
+  .badge {
+    margin-left: 5px;
+  }
+  
+  .btn-lg {
+    padding: 10px 20px;
+    font-size: 1.1rem;
+  }
+  
+  .logout-button {
+    transition: background-color 0.3s ease;
+  }
+  
+  .logout-button:hover {
+    background-color: darkred;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  
+  .navbar-nav .nav-item .nav-link {
+    color: #000;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #555;
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Ensure nav items are pushed to the right */
+  }
+  
+  @media (max-width: 992px) {
+    .navbar-collapse {
+      justify-content: flex-end;
+    }
+  }
+  
