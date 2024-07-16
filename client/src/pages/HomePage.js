@@ -234,6 +234,12 @@ const HomePage = () => {
           )}
 
           <Modal />
+          <footer className="footer mt-5">
+            <p>
+              Any user who wants to get blood request notifications must verify their phone number in the <a href="https://www.twilio.com" target="_blank" rel="noopener noreferrer">Twilio</a> app.
+
+            </p>
+          </footer>
         </div>
       )}
     </Layout>

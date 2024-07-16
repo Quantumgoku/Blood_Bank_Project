@@ -3,15 +3,13 @@ const Request = require('../models/Request');
 const userModel = require('../models/userModel');
 const twilio = require('twilio');
 
-// Initialize Twilio client with environment variables
 const accountSid = process.env.TWILIO_ACCOUNT_SID; // Your Account SID
 const authToken = process.env.TWILIO_AUTH_TOKEN;   // Your Auth Token
 const client = new twilio(accountSid, authToken);
 
 function formatPhoneNumber(phone) {
-    // Example: prepend country code +91 for Indian numbers
     if (!phone.startsWith('+')) {
-        return `+91${phone}`; // Change +91 to your relevant country code
+        return `+91${phone}`; 
     }
     return phone;
 }

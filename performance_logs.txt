@@ -1,0 +1,921 @@
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Error: Cannot read properties of undefined (reading 'toLowerCase')
+Acknowledged Donation - Processing Time: 141.03379999939352ms
+Transaction Hash: 0xc8f54d047f50b696519186554b5a1e91a33a6122610b16aef69a782405758a5e
+Block Number: 11
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 103.89009999856353ms
+Transaction Hash: 0x023c2b9c596368d5a64ba1c546f6474e04c76543ee02d6d1067e2c78cbbcd8cc
+Block Number: 12
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 103.23029999993742ms
+Transaction Hash: 0x574314c24010c23f5821ea1343587a54f6a0092b196e4318b1b6d80fd1898177
+Block Number: 13
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 63.982899999246ms
+Transaction Hash: 0x061c050c531a9d004401a56b6236336fc6fdb83fa128bc343715b85ccd0fdb9a
+Block Number: 14
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 59.02520000003278ms
+Transaction Hash: 0x10d7d70120c7b4771b0f3e376b4e0edd20594ad3826fe6f880d6ddd1976b9fdc
+Block Number: 15
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 41.888499999418855ms
+Transaction Hash: 0x7714a2136f06ba76e02f19cd0f80867aae387eed3491f0c0e14b46ae771ccd08
+Block Number: 16
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 45.683299999684095ms
+Transaction Hash: 0x09c0bc5f0b20bdb7c2d8981b41e1c0d78992915d7725b8cef8ef2faad047a056
+Block Number: 17
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.145200001075864ms
+Transaction Hash: 0x4aee31a68086461c680b84f74c6d5e89e73e6132fa4cbdcf7483bc0e6c90da4b
+Block Number: 18
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.00620000064373ms
+Transaction Hash: 0x0427e89924d33336a507cab727f140efee84f9b6f26c0b370a0c2be92c80e8b5
+Block Number: 19
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.88780000060797ms
+Transaction Hash: 0xea08b091885a4a6c3b6cf37d15c913e0032a5471fb4810f12e707026243ca8a5
+Block Number: 20
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 44.61250000074506ms
+Transaction Hash: 0x9ebdb14ee784e1de89c305f8ee4c72f4608851fbc7035f8009cb7449417fb32c
+Block Number: 21
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.66899999976158ms
+Transaction Hash: 0x609e88db4a07b189ecbf4a37f2a84c2f708576944fee3552c999b5bf9e1b2e09
+Block Number: 22
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.145800000056624ms
+Transaction Hash: 0x2a0bbfc87b0fa00d9b74b7452e7135f40f397eff6200b775d50db91a97888bc3
+Block Number: 23
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.85600000061095ms
+Transaction Hash: 0xd1dc61b7f84021dbbbce0e0cde930c0d7b3b879606fb850f10dd8baf39ad0a08
+Block Number: 24
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 47.020599998533726ms
+Transaction Hash: 0xaa8c6033969ee54a6751188975067d8d5c4e3cc4d4c96fb5a8cba4a0b29a64f0
+Block Number: 25
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 45.01490000076592ms
+Transaction Hash: 0x56b27b6d68a8ed99d1e2d26d67ea0649df48e4abb257214838f3d1f1a9a4465c
+Block Number: 26
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.29289999976754ms
+Transaction Hash: 0x29beb1c17b92904fc3d8972cac60f2b5d3d86c0d75dc61bb648fd0d77f5f0174
+Block Number: 27
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.10089999996126ms
+Transaction Hash: 0x0f7b0e1277d519a723f314829e5ec0aa10dda2b4aab3971a2e3161c29f9e0baf
+Block Number: 28
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.80649999901652ms
+Transaction Hash: 0xab80f87305e5fd30f08625b7380f4b302a68360785e3ce17bfc006a303f3cedf
+Block Number: 29
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.76009999960661ms
+Transaction Hash: 0xa2cd67269ae39cb1002404d3c8218c51d2d91bd31d88529f455db1fb1a1f1462
+Block Number: 30
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.206600001081824ms
+Transaction Hash: 0x44695e970bacae4dc19491744a3a71973a17055f5055195c65d1c1e512d11b0f
+Block Number: 31
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.665300000458956ms
+Transaction Hash: 0x78654b6c3802c6f04388b797ecbac0a485b081b1d78db298a64198c446401ed9
+Block Number: 32
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.09109999984503ms
+Transaction Hash: 0x10e8b78caae7d32814694390b53fee5208becd35137b1142273ed2c2726f54cc
+Block Number: 33
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.61449999921024ms
+Transaction Hash: 0xfa69400cf83ea20edd425b373327bb94679799c90510a9f5442a20f17a286414
+Block Number: 34
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 41.81790000014007ms
+Transaction Hash: 0x9eeb633db883b8a7b7ff73ea842652ac2b65ab67de68f506cf92f34a1c3864c7
+Block Number: 35
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.70539999939501ms
+Transaction Hash: 0x58b687e40ab70b4c61c62c57494b186e05f904d16f074b4e49791c123a122aaf
+Block Number: 36
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.156600000336766ms
+Transaction Hash: 0xdf4bab02a20293878a33eae6009913bd4fd00103a6fb0de30d99d42d202de088
+Block Number: 37
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.663900000974536ms
+Transaction Hash: 0x56242e3100a4c7a71f615e25ed7902cf4699a9d0bba98b2a2a4442c02551ddb6
+Block Number: 38
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 50.15679999999702ms
+Transaction Hash: 0x4f7bfb1ca9e4568f18bfac5f8655fd9616fb6afae581272c268964f8b3fa08e7
+Block Number: 39
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.7690000012517ms
+Transaction Hash: 0xf0102aa0193bb155a8942f29a5f43d8bcabcfc0f9066f8c9200c0d00fc1ac90b
+Block Number: 40
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.70759999938309ms
+Transaction Hash: 0x46677329202bf99ed1307b8d1082ff618aa286a0652aa935a74e1818ffcf8a74
+Block Number: 41
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.93600000068545ms
+Transaction Hash: 0x726a17cda9ce5c529e10c60dd97954d4ec7255c024e5745e4cb8d1f1e0540621
+Block Number: 42
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.39560000039637ms
+Transaction Hash: 0xcc931ece78544bed9ebd67fa39a7b1e961abae9fce5ccf73fb67ae2aab2bd3af
+Block Number: 43
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.88429999910295ms
+Transaction Hash: 0x861c2b6154bc0272e0f1547bef1be3d50767868d169a5760352e04c3fbfa3b2b
+Block Number: 44
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.229299999773502ms
+Transaction Hash: 0x3afbd1c0ef4a0b6e131f0a32a50a972d6584eecb3ab4c134b6bcf831aea1a3cb
+Block Number: 45
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.123999999836087ms
+Transaction Hash: 0x24be02d5ec57e3a9d185dc14857e49cd7f8c5af8e2dea33bf34680f62defab19
+Block Number: 46
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.13040000014007ms
+Transaction Hash: 0x5cc3e42663ec093ca70e5075d07458372b71efeb559566f85eef40d66cf5bfd9
+Block Number: 47
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.207499999552965ms
+Transaction Hash: 0x1400341e247d4d379cbe1ff798e2b0a0ceccad902314862c31c6267639abfca9
+Block Number: 48
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.542400000616908ms
+Transaction Hash: 0xcee4b5d1abeeaa7e3f7be4959bbd0e3d32bc45385e61a363bacf22b3cde5b021
+Block Number: 49
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.14860000088811ms
+Transaction Hash: 0x826f279a89b99ea56e9706c5ea20da35b0b4062c6a7602d880b20913d64cfef5
+Block Number: 50
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.16139999963343ms
+Transaction Hash: 0xf8dd19c4ff1d0d8108b00bd2303f0a9090d8d1dbbc0afcb5b010c04221925d3c
+Block Number: 51
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.1214000005275ms
+Transaction Hash: 0xf92a93c908765edfc152aa327b49e1f4a2dbce240d8313234ff3ac2c3fdf7fd3
+Block Number: 52
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.266200000420213ms
+Transaction Hash: 0x17be15e5a97045e8ec803c5468d1a5557efe0d0ea4f3f6ed4e6ed02afe453c37
+Block Number: 53
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.13099999912083ms
+Transaction Hash: 0x0019d56e7099f508b0d7aa792a803612b361be3975f9936dd2259103244a9dff
+Block Number: 54
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.44370000064373ms
+Transaction Hash: 0xf30adc4f0bcd252a3626e6a8b01faf86acfef751bc93caa90005000fb0f162c2
+Block Number: 55
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.35940000042319ms
+Transaction Hash: 0xfe83c8478af00daf4bfdc6fc4cc74736aee78f9d539cf41ca4f40693c72ccfff
+Block Number: 56
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.512900000438094ms
+Transaction Hash: 0x4666310e30eceeefc0b71d706b175098981b3a5556b2bc424f2fd76beaf139db
+Block Number: 57
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.45309999957681ms
+Transaction Hash: 0x336a0eb6f3180fbab08996d8e031f8127fa237c1989b9f8b1e13b0e353d4d38e
+Block Number: 58
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.62069999985397ms
+Transaction Hash: 0xc9f2c5eb125d2ba0498b628391caf4ce64a388a5bdcca9b6dcbc160e0a65d9d2
+Block Number: 59
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.823099998757243ms
+Transaction Hash: 0x8b55219045010b13502a8eace846be4d5bc27b4f498856e8b10fa38fb4b23ac3
+Block Number: 60
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.858799999579787ms
+Transaction Hash: 0x314e7d45cad53b8dc192a8ae2d54c65ea924b4e7821f67413f5b48f462493037
+Block Number: 61
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.1509999986738ms
+Transaction Hash: 0xdf0ee0820b11aeae0d898904a7575efa976ab1a0605c3a5d4b2b7087c9ec9bd7
+Block Number: 62
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.00929999910295ms
+Transaction Hash: 0xdcc49fd01ac215d322e678ec8876fdce2da6e5dd84112c7dbde21a71441f37c1
+Block Number: 63
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.78969999961555ms
+Transaction Hash: 0xfc8a0b16b395ffb2238a6ba3b013c4c9b921568d8504c09ecff5be1293b5c097
+Block Number: 64
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.978900000452995ms
+Transaction Hash: 0x553dc2c90f15336aefadd803d843e1d55f6d6f37840232d08802aaa3e6df7016
+Block Number: 65
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.403999999165535ms
+Transaction Hash: 0x016736a45d0d82350d29e2ec597d3224799f82485b67543c1d5ad9297bc2e529
+Block Number: 66
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.25520000047982ms
+Transaction Hash: 0xdd826aeb61f5c8f5b3ba78f2424b2a634bade1fc97f961778be4f88eb5220401
+Block Number: 67
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.77309999987483ms
+Transaction Hash: 0xb81135f75462b6433cbb2110924d75294c235d19b896264bd94bc86d425ae5fe
+Block Number: 68
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.040599999949336ms
+Transaction Hash: 0xc0a28f4209ec5ed798f5b0f761969a4e7cc5622740724cb4d23adb85294487d1
+Block Number: 69
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.717000000178814ms
+Transaction Hash: 0x845fb07307a334aa5dd3094ed85fc153d32f64fb40d41f3db5f8ae96f9e8622e
+Block Number: 70
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.410700000822544ms
+Transaction Hash: 0x60e84cf553914cfcf49bd3af1e7d7d889829da73036a419ecc98f65504247c43
+Block Number: 71
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.162699999287724ms
+Transaction Hash: 0x518590201c3594fb06910fd14ac13df3b914ac1c5d19bf53f867de73a1ec13ba
+Block Number: 72
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.07120000012219ms
+Transaction Hash: 0xeede1b94f8b9856af020bb5f9a494f75f506ddbc1bba8a2dc5922cb213656a26
+Block Number: 73
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.531000001356006ms
+Transaction Hash: 0x6458be2eb589c04a08059285210670144cf1219c4b084267a57a9e1766d5b958
+Block Number: 74
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.59750000014901ms
+Transaction Hash: 0xbc188a63eeb9746146cf2791cfacd81728237fef27d07a43328542edd7f4f7b0
+Block Number: 75
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.71059999987483ms
+Transaction Hash: 0xc45fb8516989e88ec4c1a8892a6a98150483721ea0752313a48bc64497481b63
+Block Number: 76
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.221699999645352ms
+Transaction Hash: 0x094e2f1b7932c5a027bfab5a82004439618275e30368853b57cbe560385b8285
+Block Number: 77
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.06830000132322ms
+Transaction Hash: 0x7a804bd28b1070771d85ce8932bb14e39ac8ccb406b6607ba821f19a357910c8
+Block Number: 78
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.073599999770522ms
+Transaction Hash: 0xa6ccd15eee1088513e45383182bd95b78659d83837dd408749ce47fb6524aecc
+Block Number: 79
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.661000000312924ms
+Transaction Hash: 0xca8dfb55c1177a7b9c6e12386c490a23f41eaa5b74d557a4b03da6b92b2136ed
+Block Number: 80
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.93969999998808ms
+Transaction Hash: 0xf3319f04f49512ab08b693e4771ab1137f233bbeaa5c0d3835374c7c95d87c15
+Block Number: 81
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.67219999991357ms
+Transaction Hash: 0xd14c4677c6b5311c64bc059d9326d9961dc9c014dfe78cb9202102909cab740f
+Block Number: 82
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.679599998518825ms
+Transaction Hash: 0x8a1b20687a967f5a72d8f8c816d58f623709520255ba15e9c9be65339deae009
+Block Number: 83
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.5777000002563ms
+Transaction Hash: 0x597ea7783a9f1f08d757b462fe7a939e2fea320ab88e82460ca3caf5e083270a
+Block Number: 84
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.252599999308586ms
+Transaction Hash: 0x16f904da9dbff58145458142e5bcf9d5fda8bfa6982cb64ee073d992d1001cf5
+Block Number: 85
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.43720000050962ms
+Transaction Hash: 0xdee38923a57135a369ae78a62500ea17377d8541f8b9ad37022bd8379a79223e
+Block Number: 86
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.205399999395013ms
+Transaction Hash: 0x4cf427e30b769e05f34eb90657f08743cfc28f3e0ca3b256beddc8bc879c61e4
+Block Number: 87
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.318299999460578ms
+Transaction Hash: 0xdb17d4b7583e42813e643200baf0047a3e781469c1f20247ebc382ea326e92a3
+Block Number: 88
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.279699999839067ms
+Transaction Hash: 0xb0d06401d2582b8ddce06f47abe9a9ceafdfdeadbcd31c9b6e2c065f320f7fe3
+Block Number: 89
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.905799999833107ms
+Transaction Hash: 0x5510d6784ff3d730afcfc50b248e9c2e28f84b7bca87122292660f2022af4d8d
+Block Number: 90
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.39390000142157ms
+Transaction Hash: 0xd8f82346117b1b9da37e6d92d54a7fa831bee9015c09149955b5a39bdc77f486
+Block Number: 91
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.720700001344085ms
+Transaction Hash: 0x3ea8836234569b3d268d70d52530a0601b127ab583e16bfb0bbd2a36651ae892
+Block Number: 92
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.546299999579787ms
+Transaction Hash: 0x7e280b04a81c3a17aa1d236309906e4ebb02afe26ec1746557d0468e947a1410
+Block Number: 93
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.04399999976158ms
+Transaction Hash: 0x9924362a82a92aed0b2d0bae20e6da3c04c7f28ecd19766afbd344487217bce5
+Block Number: 94
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.83100000023842ms
+Transaction Hash: 0xa68f9a98d5ccf282102b56055db64011937cf1eda2c65f7966390d0a3641859d
+Block Number: 95
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.35950000025332ms
+Transaction Hash: 0x9dbb33fc6b50ea75ccd3aaaee2419f2ea2607daa059e1622f7ef15c09dff96bd
+Block Number: 96
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.024100000038743ms
+Transaction Hash: 0x227c089e6b69cbfebcd7dd2baf312cfcd105396c5a498aae4505279a9466d544
+Block Number: 97
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.926699999719858ms
+Transaction Hash: 0xa6e410ed988281b6388369dd85f29a43e17ddd1eeafd3df63577a8091549dfd5
+Block Number: 98
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.502700001001358ms
+Transaction Hash: 0x5ec0cdc86f27979797fc94e47e097f4ebd8bd6a7cb9199f1e4b8067a22c033f2
+Block Number: 99
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.03500000014901ms
+Transaction Hash: 0x402fd82ad1a1ce02ad6acc0a4916dd7c99a7ca42f4a28f72d2ca73527f3e48ba
+Block Number: 100
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.837000001221895ms
+Transaction Hash: 0xee6db2eac88ca9eee39538cda3c0805ea297dc8d9c3206fe1f3d7d3c1f49409f
+Block Number: 101
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.884899999946356ms
+Transaction Hash: 0x2471e235c594449cc9cbd896d0d7bac3eb220508c11d2417dc914fb20521551b
+Block Number: 102
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.71900000050664ms
+Transaction Hash: 0xc0752371253e04f8507d5599ed2cb8b3657aa7303b2064977bfdcd543e6a51dd
+Block Number: 103
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.418500000610948ms
+Transaction Hash: 0x6147f982a66f90d8a8d9840b2feba0079c3b3abf558d7a608b1ee0d63f580540
+Block Number: 104
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.97800000011921ms
+Transaction Hash: 0x4de7548e50d0905946127f020c9d4404dcf58e4f8faa76194519f991dac24df3
+Block Number: 105
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.325400000438094ms
+Transaction Hash: 0x933206d875ee7f464faa0bda2b612737e00ad1b65a2068914cbb24cc85ec35ef
+Block Number: 106
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.648700000718236ms
+Transaction Hash: 0xa150003c70c03c0e5f01317a47e7cc51601e3022a17fcb8b3f7cd38a11e8231f
+Block Number: 107
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.880799999460578ms
+Transaction Hash: 0x3c6ef710fa84fc6a54298cb123adc32270e54fd23d12624a7081ccf176ec3ed9
+Block Number: 108
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.065099999308586ms
+Transaction Hash: 0x2e9e2512038a7803e23dc3a2920c002c680676ac545288218b8261b83cc7a15d
+Block Number: 109
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.74720000103116ms
+Transaction Hash: 0xfaccf4daa137b452c522cffe6283e6fe2c58461c96c43b87d8cd186fc1f425d5
+Block Number: 110
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.446800000965595ms
+Transaction Hash: 0x89adb0c3392c2c10fb44ee7ed4d11a2e8c820ec89b020cb83dda606a66623bde
+Block Number: 111
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.19389999844134ms
+Transaction Hash: 0x8703747b37861a7b9c90da028378ff8372137ee3b87150eb7935cba53045e247
+Block Number: 112
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.9355999995023ms
+Transaction Hash: 0x96b214a1d685fa2b0f48f62f83d6e24cc0d956b7aa9947378d584318f4f1fad2
+Block Number: 113
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.53429999947548ms
+Transaction Hash: 0x980ca0ae70c8797d54014a91984b238e5b6e004313b99be32a876cf576c674c3
+Block Number: 114
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.37559999898076ms
+Transaction Hash: 0x4e55c95aa3cbe0b7bcf56e279bd0832e2428ccc88ac44755eff99c721fb61ef4
+Block Number: 115
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.991799999028444ms
+Transaction Hash: 0xc56e91db8b4f23ef993975f4a8cdb3df1a3781a0ce1d6b1b31cd83918239a608
+Block Number: 116
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.234300000593066ms
+Transaction Hash: 0x9f3890e4638667fce2aff0c28fdaf1b33bc388d421aefc3696baeb5b77ba0906
+Block Number: 117
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.588800000026822ms
+Transaction Hash: 0xb8d07bfa2e981c2c04b14fb11c9d8a329334cb854923da80fb589b9060afaf19
+Block Number: 118
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 27.877699999138713ms
+Transaction Hash: 0x64f01e2358116aae1dfc6e70ed2d740af29d61991371da2c6cdd50e5bb2f5dc0
+Block Number: 119
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.227599998936057ms
+Transaction Hash: 0x46aa85093a00f56af15c78ac6413c2bde7cbbf6dff016f4ab567938bf8622ca8
+Block Number: 120
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.105699999257922ms
+Transaction Hash: 0x0302ac0a813efb3876404e5f6f9e10e4fbdef93a5d3dc91b5cbc80988e6d0aa5
+Block Number: 121
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.061300000175834ms
+Transaction Hash: 0xd4cf1c2325119e72a14081b79d36678125875b4b472254b6ae43aeb8f55c8d52
+Block Number: 122
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.649600001052022ms
+Transaction Hash: 0x99ea474395f0bda9c83c7f22df79ebaf9034284f27e522d359a497e1975529ec
+Block Number: 123
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.440899999812245ms
+Transaction Hash: 0xda27eab5efa0c60e02233afa3ab8dc87f1ba8fd99cec64ef3c683406e327f9e7
+Block Number: 124
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.58680000156164ms
+Transaction Hash: 0xbad3b0528057839196cb7f9f229a7415d934e67e6579cf7ea32ef4fbb180b954
+Block Number: 125
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 29.758599998429418ms
+Transaction Hash: 0x3c0797178d41327933a92b15d0dc208cfad4fc9f5b22f4932d7b9d60d0ec66ca
+Block Number: 126
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 27.157700000330806ms
+Transaction Hash: 0x3a3507926dd8ec8bf133819b0730a425f8acfda89f9e8371eec8788618f91f41
+Block Number: 127
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 48.165599999949336ms
+Transaction Hash: 0x30234269affebf55f0a98cf902bfa1f403ddd79c3e0ea76f602b0ffb150b9857
+Block Number: 128
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 26.74360000155866ms
+Transaction Hash: 0xd65536bf01168a17b1f341c33c26e3f48b5fdc631dc92db109fd8e43db60f930
+Block Number: 129
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.07930000126362ms
+Transaction Hash: 0xe7bb6619f003550fa804b6748af3c51f3c81c4a37c3e476f6b3824a8f96dd360
+Block Number: 130
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.114599999040365ms
+Transaction Hash: 0xd2e0cc0f800eda24815db63baf8f3182adaccc0259f95ccf223725f9e180e513
+Block Number: 131
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 28.95670000091195ms
+Transaction Hash: 0x2fabf4a00860dacc26f237e88e1ea0f394f0fea0ce43b7eb2fbb5445a7decaa7
+Block Number: 132
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.78129999898374ms
+Transaction Hash: 0x8745be9df891b6676d8fb1ae0a5a4e5c3747ac94728dc8bd38cecf83e824fc6c
+Block Number: 133
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 31.688799999654293ms
+Transaction Hash: 0xc1cf0e3a3b05cc179a1e60c12af3635f94be2cbce4846447142818add56e6a9a
+Block Number: 134
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 75.80040000006557ms
+Transaction Hash: 0x0abef60729137d778602161087fa38fffa689547c2248b80736601976ffbac4b
+Block Number: 135
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 46.42930000089109ms
+Transaction Hash: 0x42f9b0ddbd79c6b9a8d3a6dc9811f19cc31a90913b426974d1728e6e7ca2dda4
+Block Number: 136
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.06950000114739ms
+Transaction Hash: 0x0d87bde1a832721950ec7b4b64ed31eb7556a2195b3f2cddb8e5721640a2f898
+Block Number: 137
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.333899999037385ms
+Transaction Hash: 0x4189cd7154a7e275e6240c23c81e9cbffc157410259bad654c8cdf9a4795e14c
+Block Number: 138
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.198799999430776ms
+Transaction Hash: 0x9f8eb24ebaa2681a25fee552a4748261a188b4dd39cd1bdcd39509a67ba58440
+Block Number: 139
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.36579999886453ms
+Transaction Hash: 0xa6f9a506947f99395c4edc763e2ef77418fb60d63370284ceab75b1bc5de01cd
+Block Number: 140
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.76449999958277ms
+Transaction Hash: 0x6410f56808b0e9b25d9a63fc0d1a91c113f3d112d9cb25bbb6a2a4de8312dc80
+Block Number: 141
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.1644999999553ms
+Transaction Hash: 0xab8ffb78ce8dbc75bfdc0f66510200cffacc036d99763a8dbd72de726da333f8
+Block Number: 142
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.48420000076294ms
+Transaction Hash: 0x7d254e5fcb1452b4bdae6cf5a6b5336eb6554c32597cd7d00fe118bed59a6f0a
+Block Number: 143
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.60080000013113ms
+Transaction Hash: 0xdb4b0f9404156b48214ce9d01d670fe21751b7a445af9da17f5374815fd685e0
+Block Number: 144
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.41389999911189ms
+Transaction Hash: 0xdf51ab9e6bedb649c1fa2a4fc1219031e594cb5720f4e38d1c2de5a4dd42ff3e
+Block Number: 145
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.73420000076294ms
+Transaction Hash: 0x4ab5e24147d32ff8aab9da1d1b7071e192c0ca970ee1661cbff4136a41cfdda0
+Block Number: 146
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.927899999544024ms
+Transaction Hash: 0x1565b30f35efa1c8a6916da92847fe8f7b3f3d77f0c875763481e91810f7a705
+Block Number: 147
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.72429999895394ms
+Transaction Hash: 0xd3b61a4b133740d58cf0fbe47f3d1bb15c89101897288308f1553466aa235f50
+Block Number: 148
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.777599999681115ms
+Transaction Hash: 0xe24d1faca132082597694dccb87dc160475d26021d3b6c3f0564318e85a2314e
+Block Number: 149
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.49760000035167ms
+Transaction Hash: 0x149d322cb67fbdce0f2c6df01ae9e6f68e8614bce30cf4fd0015014958a52388
+Block Number: 150
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.241799999028444ms
+Transaction Hash: 0xd4c03443c1a98f18fc71e25eab8250a3f25f1f5f5252cb2c7ab12be0c81cfeec
+Block Number: 151
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.828300001099706ms
+Transaction Hash: 0x0554a947665f07a8bda10f3ada2b925c595a621e2f5f90164db85307eb4a774e
+Block Number: 152
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.840300001204014ms
+Transaction Hash: 0x0ff78d4935a4f985e37004f075c8cc88d21ca86bc833ef93aa8374cd000e9257
+Block Number: 153
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 30.802099999040365ms
+Transaction Hash: 0x3c980217a68463052bd728dedcea40591fe450d4ab36c6afb49cdc9f6b9d3615
+Block Number: 154
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.361200001090765ms
+Transaction Hash: 0x8c15c0bd072250c9608f9904cfbbd641e474958e74f3cd71910546ae58954fe7
+Block Number: 155
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.52270000055432ms
+Transaction Hash: 0xfeb987fbf3ed72e723a95affbaf0839143ffdddc4c049d36fa95101ec07c9d4a
+Block Number: 156
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 32.49780000001192ms
+Transaction Hash: 0x0f12e1ab3e59faffdfb996b8dc5f15fce278836ac28593b106ade2550a6976af
+Block Number: 157
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.47939999960363ms
+Transaction Hash: 0xea4f3b60c1894032198ebdd1275ae9603009144c95b40c80100bd5f9aef3ac0f
+Block Number: 158
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 39.75270000100136ms
+Transaction Hash: 0x3283304aef71b7e100d73fe21be4a9353cb209cd7a30a3b9e297784a3fda1c37
+Block Number: 159
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 51.36640000157058ms
+Transaction Hash: 0xa2a7db59dfa824dd5ce60b12e93c48e3073146aaa5958c0de4f844c3ff6955ee
+Block Number: 160
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 43.04530000127852ms
+Transaction Hash: 0x664832f3b0006bcbb05d945ad537a4537d63579d499e020ff320653b87b3fab9
+Block Number: 161
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.1972000002861ms
+Transaction Hash: 0xad591111b399ac284ed2235fb3af45e5eea30eeed0561012f2f2e7231a553257
+Block Number: 162
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 41.29799999855459ms
+Transaction Hash: 0x4375f681c356ddfb62fa391943a19aa86582bcce3e1e9cc8baff5fddd23a93dc
+Block Number: 163
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 41.88700000010431ms
+Transaction Hash: 0x46d9f8f275a56e55ee2bfe87a03326ab750c1cef944b9a3d93d09a0c7e994206
+Block Number: 164
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.76380000077188ms
+Transaction Hash: 0xd741368624b2075170bb5d42dc936252721922c1e642953c02ef7025d6d73492
+Block Number: 165
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.97850000113249ms
+Transaction Hash: 0x1e9cb51fd5d8e588557cf912c11bb95d0600400fb7f2859c0df3816a6d83d397
+Block Number: 166
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.264599999412894ms
+Transaction Hash: 0xc82ffafcbd94a2b4acfd7399a0d2a5f202ad8ca31b97c6b9b154174e147133c3
+Block Number: 167
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.79429999925196ms
+Transaction Hash: 0x96ca1874e77874b4edff9bb66cee885469f5d11d3eb36550d2a3793b1687d556
+Block Number: 168
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.07590000145137ms
+Transaction Hash: 0xb199b801cf66805c28d16f5d6a8d876671f69093508e452d9972e4c286c5654f
+Block Number: 169
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.227200001478195ms
+Transaction Hash: 0xb884eb3fd13616a05d7a61d5d7670f1dfccc733e13181b9ed71cbfb36379631b
+Block Number: 170
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.183299999684095ms
+Transaction Hash: 0x5eba4563a440d6ffdafc46180dfebc4a35cf28a80b44df57fb764cff9bfc747a
+Block Number: 171
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.46189999952912ms
+Transaction Hash: 0x088a054624c5724924cc2f4eba7a327982b58928eb6bd722c46f1abbf610fdfc
+Block Number: 172
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.803499998524785ms
+Transaction Hash: 0x62af7c0624cd53cfbd029fb9cc536752e99738f6a2db27542d1c722972aa5c0f
+Block Number: 173
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.64079999923706ms
+Transaction Hash: 0xab1c1a0c6cede5001f9f04311a1bc19874585e76222ea76b19ce6016b4221e69
+Block Number: 174
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.52360000088811ms
+Transaction Hash: 0x1542576c5d2b3af4d8fed9b39bd200d47a6293b403b09c571b33b1dad1d252f6
+Block Number: 175
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.59449999965727ms
+Transaction Hash: 0x5cf87d56679ff698cb771bcedac1c81eb80204dd6da6309e2609b94ce0a30f51
+Block Number: 176
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 39.89699999988079ms
+Transaction Hash: 0x9aeb38223a5344a9029e1ed82affde29bdecb5ceb03133b7bae3873226f55afd
+Block Number: 177
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.98330000042915ms
+Transaction Hash: 0x2fe70f320771b2d646674f5f0bbcf011c9d56a895198981fb0bd3b9ed33f0702
+Block Number: 178
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 40.0249000005424ms
+Transaction Hash: 0x7b81672431674b97222513edad82e5dcb176f4c8e1e84d44bfa4cca8d8021a5e
+Block Number: 179
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 39.31099999882281ms
+Transaction Hash: 0x9d130d55a98364cf44ec9cd37bdd49de46b7a52cf9115f8653eea4b96fdb50ff
+Block Number: 180
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.017500000074506ms
+Transaction Hash: 0x8697e8aec3147d104805da5e012436134f52aa2b001b53407d35153916573165
+Block Number: 181
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.02479999884963ms
+Transaction Hash: 0x12ba09d6c05d6d237d4fdf5da7a1115dacde390b2df5b1a925401fdd676ee4ef
+Block Number: 182
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.73240000009537ms
+Transaction Hash: 0x5ec8c107ca42946e3cbf342e14a5bfa3eacfa98d02f6f105217e14cf204b56c9
+Block Number: 183
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.934100000187755ms
+Transaction Hash: 0x016bb012b4f9b3d09effadcf759a3fab971963312e1caac688b23daf46e5ec24
+Block Number: 184
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 39.05220000073314ms
+Transaction Hash: 0x05299f857ff02abd1a20d887449c1fa1978bd644d96e9ac1b7ac4aef1145580b
+Block Number: 185
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.99180000089109ms
+Transaction Hash: 0x944f30ab408a1720a0cda7ba7725ab8d0e052125132e797508fa03d2dd43eac2
+Block Number: 186
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.84180000051856ms
+Transaction Hash: 0x738265bfc29c1eb8eb9c33ad00a592c08a4f3beced0e1b549ed10bb14edd0d47
+Block Number: 187
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 40.23890000022948ms
+Transaction Hash: 0x0a4c3e9e90ffb86a4d23c69b76c885bda01418db6d2771b7093bd8d22b4f4f83
+Block Number: 188
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.331399999558926ms
+Transaction Hash: 0x9b7ce48defe1130537155b09821e0f481ac89690096c398a51d12b2bcd4f77df
+Block Number: 189
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.88619999960065ms
+Transaction Hash: 0x78e5260e9edaf972e122ea8c556e1401075d2e83688e63cc2c540abfef385389
+Block Number: 190
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.44019999913871ms
+Transaction Hash: 0x7dacfd6aed70b103811398f999532f1747b0bd0b05cc03ee3e66bb9eaf606cfd
+Block Number: 191
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.318900000303984ms
+Transaction Hash: 0x00e3f7063b010d5ee90cd36ff97c314b9f96c77276f50efd7853631c7be75ad3
+Block Number: 192
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.39049999974668ms
+Transaction Hash: 0x86ce045b209a10c31c3960722d692bce99c5732a3f7dbf78a710cd57be6f09b3
+Block Number: 193
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.83229999989271ms
+Transaction Hash: 0x15c629ad3814e0721f1f3bce71e37ee59bda180f5e3ba806350fe2b2d110da96
+Block Number: 194
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 41.472100000828505ms
+Transaction Hash: 0x07b5b8832c1defabd1f101812cf56b2e87c6e3bbc591007cb6d18457d0c8e0e9
+Block Number: 195
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.89509999938309ms
+Transaction Hash: 0x60b903fe822af5f39ebf3c01459e67a0984c1601e4b0bf63dd8988d621a5b701
+Block Number: 196
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.478600000962615ms
+Transaction Hash: 0x81a4d201a63d832662cb810ba115e9f4c9662becac1c7900a9205955576f0659
+Block Number: 197
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.77710000053048ms
+Transaction Hash: 0xbd68366006cc48ffff2e04c9aeaa091ec5e0bf8065e8e76f7105c42c836f56bb
+Block Number: 198
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.026499999687076ms
+Transaction Hash: 0x3834195baaed54fe1916e9b0e289acceaed80c89333470b69f23b5322802f115
+Block Number: 199
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 39.23990000039339ms
+Transaction Hash: 0x9a10557987b3074076d438196095248ba9b558d7700039a6255a93d296217cd0
+Block Number: 200
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 42.315099999308586ms
+Transaction Hash: 0xfee0ceaf7668d0b3b3d08fa35f3949a136604b741607ff478db738a8546547d1
+Block Number: 201
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.5534000005573ms
+Transaction Hash: 0x0f3925d445bdee47802ac63581675d26cf172ba93b82baf2c837283c98f8280a
+Block Number: 202
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.576599998399615ms
+Transaction Hash: 0x3843820c2b5d91c74d49d73b28ac5289397c6e7db2f50047acde31bf47b67575
+Block Number: 203
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.9698000010103ms
+Transaction Hash: 0xf39487145824c88905175b9faa3373cf05e2afbb011c37a55466c05bf02b4037
+Block Number: 204
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.10899999924004ms
+Transaction Hash: 0x658cfd7974c94513309d2b56164f26ff099324b73b0e276c3ff05a91f263e239
+Block Number: 205
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 39.348299998790026ms
+Transaction Hash: 0x680ba165187fa968c14fb6e24e2f77780ca3a2e153642f7441252c097f89a5bd
+Block Number: 206
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 46.46140000037849ms
+Transaction Hash: 0x56da029cd39701db5e24b5a8a11b6627eee5ec9b4596072e7a5c3bbb254d65d9
+Block Number: 207
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.87790000066161ms
+Transaction Hash: 0xe5011c11a183340ccd46ee16d6e766215bbefd76be21e64efb2edefb93911ec3
+Block Number: 208
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 40.16540000028908ms
+Transaction Hash: 0x88f3cf5c8c5c33e46afc1b98fbcd18779f095bb2956786c24ba024a1bb58378a
+Block Number: 209
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 39.84440000168979ms
+Transaction Hash: 0x05582603b1c4faf23a20f5a0423c20b8a240614040adb0243f4b890430c2539d
+Block Number: 210
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.503399999812245ms
+Transaction Hash: 0x326c14ea0b2fd8c70d02603ac0b2bc0e9583201b0de3a5dbb6057f2e530e1967
+Block Number: 211
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.81429999880493ms
+Transaction Hash: 0x294abc115cd295050ad081a745fbf2c82572b8b04824c26343565d67313d2671
+Block Number: 212
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 37.69969999976456ms
+Transaction Hash: 0x329d051327fe4d6fd03c2eb9b651d9b360c70e656aa799ad9c5364a12d26ae84
+Block Number: 213
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.97360000014305ms
+Transaction Hash: 0x566a7f8a745a5f4339b9938b6761dec3479666e24f436587689aad6c84cacc0c
+Block Number: 214
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.62030000053346ms
+Transaction Hash: 0xd29c4a1d4f0a5086ba56c6e0f68a9c2f7278527a16ce5e75ab58f59762ea5720
+Block Number: 215
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.96330000087619ms
+Transaction Hash: 0xdc48ac16db158d9c9dfebb3acf1c57a62bbeefbca57ffefc3c8e9176ac21bd5a
+Block Number: 216
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 34.93610000051558ms
+Transaction Hash: 0xac3dc06dcc5fb3d943bb927d1b3ba0543952ed5cba468c48bc249bb406ce147d
+Block Number: 217
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 38.37719999998808ms
+Transaction Hash: 0x8da60a3859cc4edde587c1b6b22f38d7b9903c1e010657480b9545d17a02e2ea
+Block Number: 218
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 33.67839999869466ms
+Transaction Hash: 0x95f5d5dc6a64ea898b322263cbe7ae146ab0672c2b27c84baa8c19ed6cb317e6
+Block Number: 219
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.27890000119805ms
+Transaction Hash: 0xba0ea9e8201a81d9913da6f442020f297a1518dd8092c8bfd3b17342da3e56a2
+Block Number: 220
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.80949999950826ms
+Transaction Hash: 0x8586f0965d4fe5cddc55af66313c4962740ef952c59898658a8d7feb12a84079
+Block Number: 221
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.22969999909401ms
+Transaction Hash: 0x2c17f096da08f8dfefae6dfb159d4a58a59365af4f75878d43f38fa49e26ed5c
+Block Number: 222
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.70810000039637ms
+Transaction Hash: 0xc61e97fde8e71b0b37cd56d9f59a3099344b55a1e44be1e4c1dea27f542a5447
+Block Number: 223
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 41.57760000042617ms
+Transaction Hash: 0x177cfe8cc8dbca2420584c8aa70770de8bb1acaf3e9b0c60d8c68435f442d8d8
+Block Number: 224
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.46460000053048ms
+Transaction Hash: 0x093b940409c6c8ceaecff3ee50dff0a7ff16dc5f92095655259c2ce8c4a2f490
+Block Number: 225
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.36610000021756ms
+Transaction Hash: 0x7f93c669af99783f597e778a89cae0a4e426b4e0fd23230a7b5da0278a5bf92b
+Block Number: 226
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.81069999933243ms
+Transaction Hash: 0xf1ffee1671fe4a025ea2076455618b012d5607f2a245279c034a09ea628b543b
+Block Number: 227
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 41.225999999791384ms
+Transaction Hash: 0x8caec03f7151e012fc0f3787a661c4430fb3ae3c46724401bc035aa3cfb39d85
+Block Number: 228
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.69219999946654ms
+Transaction Hash: 0xc0518b10e8e2de9f80eb980e910a033f1a2a545c71a97c7c646252ffe11ddf0a
+Block Number: 229
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.53589999862015ms
+Transaction Hash: 0x972c58f5e55f98334f56a5092ad917b93f296fcf215cfdbc26871239213689e4
+Block Number: 230
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 36.12320000119507ms
+Transaction Hash: 0x716173d599a1fa85cf656009eb36c49ac1594c3e79861f2056212cdc2c817457
+Block Number: 231
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.97589999996126ms
+Transaction Hash: 0x8591389ccc7b0504d8e228e48859ceb8b79d19958086d394285034dce9089b4f
+Block Number: 232
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.20020000077784ms
+Transaction Hash: 0xc285135a88742f5873da5351a5d043ecb37fa2768891745d7423c26173c28975
+Block Number: 233
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 35.35209999978542ms
+Transaction Hash: 0xcb6a15fec72e75e4df4e706fe57ad8a99e677b9a7c2a55ba0187ff416a0a53d6
+Block Number: 234
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 135.81489999964833ms
+Transaction Hash: 0x303354a7bd5167bf03eb77aa5e76b1b484b78b59ba01d7c8335012c6de7145e1
+Block Number: 235
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 63.07620000094175ms
+Transaction Hash: 0x95106e563cf009680f2b4e2b38e89ebd1b1fc92eebef2e474b81751127a81d53
+Block Number: 236
+Gas Used: 148326
+Acknowledged Donation - Processing Time: 285.5264000000898ms
+Transaction Hash: 0x1ad6d967327a79809447b2ecaf8cef33c04fbf2752b946964baf5955fa6831a0
+Block Number: 237
+Gas Used: 148326

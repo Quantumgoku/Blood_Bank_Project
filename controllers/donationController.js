@@ -2,12 +2,14 @@ const { web3, contract } = require('../services/web3Services');
 const userModel = require("../models/userModel");
 const DonationRequest = require('../models/DonationRequest');
 const Request = require('../models/Request');
+const { performance } = require('perf_hooks');
+const fs = require('fs');
 
 // Create a DonationRequest request
 exports.createDonationRequest = async (req, res) => {
     const { bloodType, quantity, receiver, phone } = req.body;
     const { userId } = req.body; 
-    //console.log(req.body);
+    // console.log(req.body);
 
     const user = await userModel.findById(userId);
 
@@ -28,7 +30,18 @@ exports.createDonationRequest = async (req, res) => {
         });
 
         await newDonationRequest.save();
-        res.status(201).json({ message: 'DonationRequest request created', DonationRequest: newDonationRequest });
+        // Log the new donation request for debugging (optional)
+        console.log("New Donation Request created:", newDonationRequest);
+
+        // Extract the _id (donationId) from the newly created document
+        const donationId = newDonationRequest._id;
+
+        // Return the donationId in the response
+        res.status(201).json({ 
+            message: 'DonationRequest request created',
+            donationId: donationId, // Send back the donationId for subsequent use
+            DonationRequest: newDonationRequest 
+        });
     } catch (error) {
         console.error(error);
         res.status(500).json({ message: 'DonationRequest request failed' });
@@ -36,42 +49,37 @@ exports.createDonationRequest = async (req, res) => {
 };
 
 exports.acknowledgeDonation = async (req, res) => {
-    console.log("first");
     const { donationId } = req.params;
     const { userId } = req.body;
 
     try {
-        const donationRequest = await DonationRequest.findById(donationId); // Corrected variable name
+        const startTime = performance.now(); // Start timing
+
+        const donationRequest = await DonationRequest.findById(donationId);
+        console.log(userId);
         const user = await userModel.findById(userId);
+        console.log(user);
 
         if (!donationRequest) {
-            console.log("second");
             return res.status(404).json({ message: 'Donation request not found' });
         }
-
         if (donationRequest.receiver.toLowerCase() !== user.WalletAddress.toLowerCase()) {
-            console.log("third");
             return res.status(403).json({ message: 'Unauthorized' });
         }
 
-        console.log("fourth");
-        try {
-            console.log("Fetching accounts...");
-            const accounts = await web3.eth.getAccounts();
-            console.log("Accounts fetched:", accounts);
-        } catch (error) {
-            console.error("Error fetching accounts:", error);
-            return res.status(500).json({ message: 'Failed to fetch accounts' });
-        }
-
-        console.log("fifth");
+        const accounts = await web3.eth.getAccounts();
         const userAccount = accounts.find(acc => acc.toLowerCase() === donationRequest.donor.toLowerCase());
-
         if (!userAccount) {
             return res.status(400).json({ message: 'Donor blockchain account not found' });
         }
 
-        const receipt = await contract.methods.donateBlood(donationRequest.receiver, donationRequest.bloodType, donationRequest.quantity).send({ from: userAccount, gas: 500000 });
+        const receipt = await contract.methods.donateBlood(
+            donationRequest.receiver,
+            donationRequest.bloodType,
+            donationRequest.quantity
+        ).send({ from: userAccount, gas: 500000 });
+
+        const endTime = performance.now(); // End timing
 
         if (!receipt.events || !receipt.events.NewDonation || !receipt.events.NewDonation.returnValues || !receipt.events.NewDonation.returnValues.timestamp) {
             return res.status(400).json({ message: 'Event data not found in receipt' });
@@ -86,9 +94,18 @@ exports.acknowledgeDonation = async (req, res) => {
         await DonationRequest.findByIdAndDelete(donationId);
         await Request.findOneAndDelete({ walletAddress: donationRequest.receiver });
 
+        const processingTime = endTime - startTime;
+
+        // Log performance data
+        fs.appendFileSync('performance_logs.txt', `Acknowledged Donation - Processing Time: ${processingTime}ms\n`);
+        fs.appendFileSync('performance_logs.txt', `Transaction Hash: ${receipt.transactionHash}\n`);
+        fs.appendFileSync('performance_logs.txt', `Block Number: ${receipt.blockNumber}\n`);
+        fs.appendFileSync('performance_logs.txt', `Gas Used: ${receipt.gasUsed}\n`);
+
         res.status(200).json({ message: 'Donation request acknowledged and added to blockchain', donationRequest });
     } catch (error) {
         console.error(error);
+        fs.appendFileSync('performance_logs.txt', `Error: ${error.message}\n`);
         res.status(500).json({ message: 'Acknowledgment failed' });
     }
 };

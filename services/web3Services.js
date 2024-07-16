@@ -7,7 +7,6 @@ const contractJSON = JSON.parse(fs.readFileSync(contractJSONPath, 'utf8'));
 const abi = contractJSON.abi;
 const contractAddress = process.env.CONTRACT_ADDRESS || contractJSON.networks['5777'].address;
 
-console.log("Hello");
 
 const web3 = new Web3(new Web3.providers.HttpProvider('http://localhost:8545'));
 //console.log(web3);
