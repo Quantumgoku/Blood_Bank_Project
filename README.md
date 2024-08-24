@@ -26,3 +26,27 @@ This project is a **Decentralized Blood Bank Management System** that leverages 
    ```bash
    git clone https://github.com/yourusername/Decentralized-Blood-Bank.git
    cd Decentralized-Blood-Bank
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+3. **Start the Local Ethereum Blockchain:**
+   Use Ganache to create a local Ethereum blockchain for testing purposes.
+
+4. **Deploy Smart Contracts:**
+   Deploy the smart contracts to the local blockchain using Truffle or Hardhat.
+
+5. **Run the Backend Server:**
+   ```bash
+   npm run server
+6. **Run the Frontend Application:**
+   ```bash
+   npm start
+7. **Access the Application:**
+   Visit http://localhost:3000 in your web browser.
+
+
+### Contributors
+
+- [Manas Mishra](https://github.com/1729manas)
+
